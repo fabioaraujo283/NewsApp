@@ -1,4 +1,4 @@
-# noticias
+# NewsApp
 
 A new Flutter project.
 
