@@ -1,4 +1,5 @@
 # NewsApp
+![Screenshot_62](https://user-images.githubusercontent.com/73440077/101301473-b3fc6d00-3817-11eb-9af8-649bd23ff634.png)
 
 A new Flutter project.
 
